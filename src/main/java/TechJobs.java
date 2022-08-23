@@ -125,7 +125,7 @@ public class TechJobs {
                 System.out.println(key + ": " + job.get(key));
             }
             System.out.println("*****\n");
-            //need to figure out how to print as shown in assignment
+
             //need to print No Results message
 
         }
