@@ -127,13 +127,9 @@ public class TechJobs {
             System.out.println("*****\n");
 
             //need to print No Results message
-
         }
-
-
-
-        //System.out.println("printJobs is not implemented yet");
+        if (someJobs.size() == 0){
+            System.out.println("No Results");
+        }
     }
 }
-
-//System.out.println(someJobs.get(0));
