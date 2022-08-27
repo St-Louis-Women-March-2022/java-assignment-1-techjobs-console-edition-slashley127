@@ -126,7 +126,6 @@ public class TechJobs {
             }
             System.out.println("*****\n");
 
-            //need to print No Results message
         }
         if (someJobs.size() == 0){
             System.out.println("No Results");
